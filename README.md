@@ -1,2 +1,7 @@
-# curated-data-dev
-Dev testing repo for curated data. Nothing in here is real. DO NOT use for real
+# Developer repo for curated data
+
+This is a testing repo for the development of the data curation system. Nothing in here is real. 
+
+**DO NOT use for anything real.**
+
+
