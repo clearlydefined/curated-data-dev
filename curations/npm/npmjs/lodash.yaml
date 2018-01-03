@@ -1,0 +1,8 @@
+package:
+  name: lodash
+  provider: npmjs
+  type: npm
+revisions:
+  4.17.4:
+    described:
+      this: is really cool
