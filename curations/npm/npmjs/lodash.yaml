@@ -5,4 +5,7 @@ package:
 revisions:
   4.17.4:
     described:
-      this: is some new data
+      sourceLocation:
+        that: is some new data
+    licensed:
+      license: GPL
