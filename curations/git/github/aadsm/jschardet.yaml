@@ -1,0 +1,15 @@
+package:
+  name: jschardet
+  namespace: aadsm
+  provider: github
+  type: git
+revisions:
+  5f95a93325fa2a6c0189f1df5c0b71175ef87b30:
+    licensed:
+      copyright:
+        authors:
+          '0': Jeff McAffer
+          '1': Ariel Flesler
+          '2': James Random Hacker.
+          '3': Markus Ast
+          '4': Philippe Rathe <prathe@gmail.com>
