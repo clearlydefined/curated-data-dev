@@ -1,0 +1,9 @@
+coordinates:
+  name: compiler
+  namespace: '@angular'
+  provider: npmjs
+  type: npm
+revisions:
+  5.2.5:
+    described:
+      projectWebsite: 'https://github.com/angular/angular'
