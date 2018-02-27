@@ -1,0 +1,10 @@
+coordinates:
+  name: jquery
+  namespace: jquery
+  provider: github
+  type: git
+revisions:
+  32b00373b3f42e5cdcb709df53f3b08b7184a944:
+    described:
+      sourceLocation:
+        url: 'https://github.com/jquery/jqueryjs'
