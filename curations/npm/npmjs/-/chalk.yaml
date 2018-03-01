@@ -1,0 +1,10 @@
+coordinates:
+  name: chalk
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  2.3.1:
+    described:
+      sourceLocation:
+        url: 'https://github.com/chalk/chalk-test'
