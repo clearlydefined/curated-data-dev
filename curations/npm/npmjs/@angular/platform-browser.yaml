@@ -1,0 +1,9 @@
+coordinates:
+  name: platform-browser
+  namespace: '@angular'
+  provider: npmjs
+  type: npm
+revisions:
+  5.2.5:
+    described:
+      sourceLocation: 'https://github.com/angular/angular/'
