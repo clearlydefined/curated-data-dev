@@ -1,0 +1,10 @@
+coordinates:
+  name: ava
+  namespace: avajs
+  provider: github
+  type: git
+revisions:
+  a051d3e18dba92c893fddb08490a8627f586c231:
+    described:
+      sourceLocation:
+        url: 'https://github.com/avajs/ava.git'
