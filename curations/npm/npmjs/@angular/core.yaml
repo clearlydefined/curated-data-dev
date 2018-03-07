@@ -1,0 +1,10 @@
+coordinates:
+  name: core
+  namespace: '@angular'
+  provider: npmjs
+  type: npm
+revisions:
+  5.2.5:
+    '0': a
+    '1': s
+    '2': d
