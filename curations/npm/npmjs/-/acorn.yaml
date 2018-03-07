@@ -1,0 +1,9 @@
+coordinates:
+  name: acorn
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  5.5.1:
+    described:
+      projectWebsite: 'https://github.com/acornjs/acorn.js'
