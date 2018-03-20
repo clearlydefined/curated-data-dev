@@ -1,0 +1,9 @@
+coordinates:
+  name: colors
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.2:
+    described:
+      projectWebsite: 'https://github.com/Marak/colors'
