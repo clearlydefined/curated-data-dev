@@ -1,0 +1,9 @@
+coordinates:
+  name: async
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  facets:
+    - Coret
+  releaseDate: 2017.11.07
