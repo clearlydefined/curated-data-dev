@@ -1,0 +1,9 @@
+coordinates:
+  name: babel-runtime
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  facets:
+    - Core1
+  releaseDate: 2017.08.17
