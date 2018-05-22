@@ -1,0 +1,16 @@
+coordinates:
+  name: async
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  2.6.0:
+    '0': d
+    '1': e
+    '2': s
+    '3': c
+    '4': r
+    '5': i
+    '6': b
+    '7': e
+    '8': d
