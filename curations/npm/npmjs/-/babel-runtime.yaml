@@ -1,0 +1,11 @@
+coordinates:
+  name: babel-runtime
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  6.26.0:
+    described:
+      facets:
+        - Core2132
+      releaseDate: 2017.08.17
