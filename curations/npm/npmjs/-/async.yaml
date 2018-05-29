@@ -1,0 +1,16 @@
+coordinates:
+  name: async
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  2.5.0:
+    described:
+      facets:
+        - Core7
+      releaseDate: 2017.06.27
+  2.6.0:
+    described:
+      facets:
+        - Core7
+      releaseDate: 2017.11.07
