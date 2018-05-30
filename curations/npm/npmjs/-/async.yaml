@@ -1,0 +1,8 @@
+coordinates:
+  name: async
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  undefined:
+    '0': Core2
