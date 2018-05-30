@@ -1,0 +1,8 @@
+coordinates:
+  name: async
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  2.6.0:
+    described.releaseDate: 2017.11.01
