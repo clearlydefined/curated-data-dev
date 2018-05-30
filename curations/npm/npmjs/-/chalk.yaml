@@ -8,3 +8,4 @@ revisions:
     described:
       sourceLocation:
         url: 'https://github.com/chalk/chalk-test'
+    described.releaseDate: 2018.02.12
