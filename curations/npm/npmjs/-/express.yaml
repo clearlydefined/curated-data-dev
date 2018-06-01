@@ -1,0 +1,12 @@
+coordinates:
+  name: express
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  4.16.2:
+    described:
+      facets:
+        - Core
+        - Docs
+      releaseDate: 2017.10.01
