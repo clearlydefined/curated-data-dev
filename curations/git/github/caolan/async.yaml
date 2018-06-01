@@ -1,0 +1,15 @@
+coordinates:
+  name: async
+  namespace: caolan
+  provider: github
+  type: git
+revisions:
+  5ed3df1ea15bea422301384ea373a517cf61a9b4:
+    described:
+      facets:
+        - Core
+        - Data
+        - Doc
+        - Examples
+        - Tests
+      releaseDate: 2018.05.21
