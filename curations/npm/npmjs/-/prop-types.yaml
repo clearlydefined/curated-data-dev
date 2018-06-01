@@ -1,0 +1,9 @@
+coordinates:
+  name: prop-types
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  15.6.0:
+    licensed:
+      declared: Apache-2.0
