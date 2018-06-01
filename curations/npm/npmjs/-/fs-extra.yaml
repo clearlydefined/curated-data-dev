@@ -1,0 +1,9 @@
+coordinates:
+  name: fs-extra
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  5.0.0:
+    described:
+      releaseDate: 2017.12.13
