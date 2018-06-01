@@ -1,0 +1,9 @@
+coordinates:
+  name: async
+  namespace: caolan
+  provider: github
+  type: git
+revisions:
+  d5c391a3d764d3a7c2afdc4d7ae111e85312cfc4:
+    licensed:
+      declared: MIT
