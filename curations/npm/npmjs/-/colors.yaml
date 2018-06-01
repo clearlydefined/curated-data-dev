@@ -1,0 +1,12 @@
+coordinates:
+  name: colors
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.2:
+    described:
+      facets:
+        - Core
+        - Dev
+      releaseDate: 2015.06.19
