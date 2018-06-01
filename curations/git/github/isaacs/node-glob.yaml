@@ -1,0 +1,14 @@
+coordinates:
+  name: node-glob
+  namespace: isaacs
+  provider: github
+  type: git
+revisions:
+  8fa8d561e08c9eed1d286c6a35be2cd8123b2fb7:
+    described:
+      facets:
+        - Core
+        - Dev
+        - Doc
+        - Examples
+        - Tests
