@@ -1,0 +1,21 @@
+coordinates:
+  name: async
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  2.6.0:
+    described:
+      facets:
+        - Core
+        - Docs
+      releaseDate: 2017.11.01
+    licensed:
+      declared: Apache-2.0
+  2.6.1:
+    described:
+      facets:
+        - Core
+        - Docs
+    licensed:
+      declared: Apache-2.0

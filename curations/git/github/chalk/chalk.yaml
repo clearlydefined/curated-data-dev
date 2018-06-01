@@ -1,0 +1,15 @@
+coordinates:
+  name: chalk
+  namespace: chalk
+  provider: github
+  type: git
+revisions:
+  ae8a03f2c5c49896adeb3dd4ec5350e4ab9449a2:
+    described:
+      facets:
+        - Core
+        - Data
+        - Dev
+        - Examples
+        - Tests
+      releaseDate: 2018.02.12

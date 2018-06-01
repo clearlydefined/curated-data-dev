@@ -1,0 +1,9 @@
+coordinates:
+  name: request
+  namespace: request
+  provider: github
+  type: git
+revisions:
+  dd427d7aa0177a876da69f82801bf0c63a855310:
+    described:
+      releaseDate: 2017.09.22
