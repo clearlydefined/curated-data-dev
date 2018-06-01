@@ -1,0 +1,9 @@
+coordinates:
+  name: express
+  namespace: expressjs
+  provider: github
+  type: git
+revisions:
+  351396f971280ab79faddcf9782ea50f4e88358d:
+    described:
+      releaseDate: 2017.10.01
