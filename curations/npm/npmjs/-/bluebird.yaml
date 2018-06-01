@@ -1,0 +1,9 @@
+coordinates:
+  name: bluebird
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  3.5.1:
+    described:
+      releaseDate: 2017.10.09
