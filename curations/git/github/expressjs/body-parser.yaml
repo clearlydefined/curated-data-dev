@@ -1,0 +1,9 @@
+coordinates:
+  name: body-parser
+  namespace: expressjs
+  provider: github
+  type: git
+revisions:
+  b2659a7af3b413a2d1df274bef409fe6cdcf6b8f:
+    licensed:
+      declared: MIT
