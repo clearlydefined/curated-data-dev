@@ -1,0 +1,9 @@
+coordinates:
+  name: underscore
+  namespace: jashkenas
+  provider: github
+  type: git
+revisions:
+  e4743ab712b8ab42ad4ccb48b155034d02394e4d:
+    licensed:
+      declared: MIT
