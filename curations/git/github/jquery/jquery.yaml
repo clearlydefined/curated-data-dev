@@ -1,0 +1,9 @@
+coordinates:
+  name: jquery
+  namespace: jquery
+  provider: github
+  type: git
+revisions:
+  32b00373b3f42e5cdcb709df53f3b08b7184a944:
+    licensed:
+      declared: 'BSD-3-Clause, MIT, Apache-2.0'
