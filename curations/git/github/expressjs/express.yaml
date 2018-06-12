@@ -1,0 +1,14 @@
+coordinates:
+  name: express
+  namespace: expressjs
+  provider: github
+  type: git
+revisions:
+  351396f971280ab79faddcf9782ea50f4e88358d:
+    described:
+      sourceLocation:
+        provider: github
+        revision: 351396f971280ab79faddcf9782ea50f4e88358d
+        type: git
+        url: >-
+          https://github.com/expressjs/node/commit/351396f971280ab79faddcf9782ea50f4e88358d
