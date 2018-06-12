@@ -1,0 +1,14 @@
+coordinates:
+  name: async
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  2.6.0:
+    described:
+      sourceLocation:
+        provider: github
+        revision: ba6ed320e350f8b2eae4eb9683302ddac0ddf66f
+        type: git
+        url: >-
+          https://github.org/caolan/async/commit/ba6ed320e350f8b2eae4eb9683302ddac0ddf66f
