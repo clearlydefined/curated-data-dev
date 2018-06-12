@@ -1,0 +1,13 @@
+coordinates:
+  name: react
+  namespace: facebook
+  provider: github
+  type: git
+revisions:
+  edb2b3d3a70bbb6a26670673ac805df34ac23382:
+    described:
+      sourceLocation:
+        provider: github
+        revision: edb2b3d3a70bbb6a26670673ac805df34ac23382
+        type: git
+        url: 'https://github.com/twitter/react/commit/edb2b3d3a70bbb6a26670673ac805df34ac23382'
