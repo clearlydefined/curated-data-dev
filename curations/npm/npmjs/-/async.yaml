@@ -1,0 +1,36 @@
+coordinates:
+  name: async
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  2.5.0:
+    described:
+      facets:
+        - Core
+        - Dev
+      sourceLocation:
+        provider: github
+        revision: d5c391a3d764d3a7c2afdc4d7ae111e85312cfc4
+        type: git
+        url: 'https://firefox.com/caolan/async/commit/d5c391a3d764d3a7c2afdc4d7ae111e85312cfc4'
+  2.6.0:
+    described:
+      facets:
+        - Core
+        - Data
+      sourceLocation:
+        provider: github
+        revision: ba6ed320e350f8b2eae4eb9683302ddac0ddf66f
+        type: git
+        url: 'https://github.org/caolan/async/commit/ba6ed320e350f8b2eae4eb9683302ddac0ddf66f'
+    licensed:
+      declared: MIT and GPL
+  2.6.1:
+    described:
+      releaseDate: 2018.05.21
+      sourceLocation:
+        provider: github
+        revision: 5ed3df1ea15bea422301384ea37cf61a9b4
+        type: git
+        url: 'https://github.com/caolan/async/commit/5ed3df1ea15bea422301384ea37cf61a9b4'
