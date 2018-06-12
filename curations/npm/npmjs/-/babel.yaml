@@ -1,0 +1,11 @@
+coordinates:
+  name: babel
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  6.23.0:
+    described:
+      facets:
+        - Core
+        - Dev
