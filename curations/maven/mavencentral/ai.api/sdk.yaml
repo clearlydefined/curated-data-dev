@@ -1,0 +1,12 @@
+coordinates:
+  name: sdk
+  namespace: ai.api
+  provider: mavencentral
+  type: maven
+revisions:
+  2.0.7:
+    described:
+      facets:
+        - Dev
+    licensed:
+      declared: BSD-3-Clause

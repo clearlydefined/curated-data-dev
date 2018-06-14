@@ -1,0 +1,17 @@
+coordinates:
+  name: clone
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  2.1.1:
+    described:
+      facets:
+        - Core
+        - '123'
+      releaseDate: '2009-03-09'
+      sourceLocation:
+        provider: github
+        revision: a321fd85bb79f787fb33ba5f9a44d2ad480832ef
+        type: git
+        url: 'https://github.com/pvorb/maven-clone/commit/a321fd85bb79f787fb33ba5f9a44d2ad480832ef'
