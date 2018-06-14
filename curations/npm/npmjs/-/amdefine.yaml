@@ -1,0 +1,16 @@
+coordinates:
+  name: amdefine
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.1:
+    described:
+      releaseDate: '2016-02-01'
+      sourceLocation:
+        provider: github
+        revision: e59edc9da24404ec7937098e3992f8fb0e260be7
+        type: git
+        url: 'https://github.org/jrburke/amdefine/commit/e59edc9da24404ec7937098e3992f8fb0e260be7'
+    licensed:
+      declared: BSD-3-Clause AND MIT
