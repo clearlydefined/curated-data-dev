@@ -1,0 +1,17 @@
+coordinates:
+  name: fetch
+  namespace: github
+  provider: github
+  type: git
+revisions:
+  v2.0.3:
+    described:
+      facets:
+        - Core
+        - Dev
+        - Doc
+        - Examples
+        - Tests
+      releaseDate: '2018-03-02'
+    licensed:
+      declared: GPL
