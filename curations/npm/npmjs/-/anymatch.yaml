@@ -1,0 +1,9 @@
+coordinates:
+  name: anymatch
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  1.3.2:
+    licensed:
+      declared: MIT
