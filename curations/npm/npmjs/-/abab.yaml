@@ -1,0 +1,14 @@
+coordinates:
+  name: abab
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.4:
+    described:
+      facets:
+        - Core
+        - Dev
+      releaseDate: '2016-09-09'
+    licensed:
+      declared: MIT

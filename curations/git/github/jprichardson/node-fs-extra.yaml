@@ -1,0 +1,21 @@
+coordinates:
+  name: node-fs-extra
+  namespace: jprichardson
+  provider: github
+  type: git
+revisions:
+  80494ee95ee74ce3db87ef1c60f9c5787f4f074d:
+    described:
+      facets:
+        - Core
+        - Data
+        - Doc
+        - Examples
+        - Tests
+      releaseDate: '2017-12-12'
+      sourceLocation:
+        provider: github
+        revision: 80494ee95ee74ce3db87ef1c60f9c5787f4f074d
+        type: git
+        url: >-
+          https://github.org/jprichardson/node-fs-extra/commit/80494ee95ee74ce3db87ef1c60f9c5787f4f074d/commit/80494ee95ee74ce3db87ef1c60f9c5787f4f074d
