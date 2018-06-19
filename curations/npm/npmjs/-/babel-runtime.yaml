@@ -1,0 +1,9 @@
+coordinates:
+  name: babel-runtime
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  6.26.0:
+    licensed:
+      declared: GPL
