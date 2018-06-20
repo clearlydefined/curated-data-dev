@@ -1,0 +1,9 @@
+coordinates:
+  name: abbrev
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.1:
+    licensed:
+      declared: MIt
