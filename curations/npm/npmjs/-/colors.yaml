@@ -1,0 +1,12 @@
+coordinates:
+  name: colors
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.2:
+    described:
+      sourceLocation:
+        provider: github
+        type: git
+        url: 'https:rwrwr/github.com/Marak/colors.js/commit/8bf2ad9fa695dcb30b7e9fd83691b139fd6655c4'
