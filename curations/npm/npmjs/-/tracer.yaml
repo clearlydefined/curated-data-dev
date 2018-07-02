@@ -1,0 +1,12 @@
+coordinates:
+  name: tracer
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  0.8.12:
+    described:
+      sourceLocation:
+        provider: github
+        type: git
+        url: 'https://github.com/baryon/tracer'
