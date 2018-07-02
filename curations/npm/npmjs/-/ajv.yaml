@@ -1,0 +1,9 @@
+coordinates:
+  name: ajv
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  6.5.1:
+    licensed:
+      declared: MIT
