@@ -1,0 +1,9 @@
+coordinates:
+  name: autoprefixer
+  namespace: postcss
+  provider: github
+  type: git
+revisions:
+  ff7e8131fc9a9316490257707d04dba25a3cdfc1:
+    licensed:
+      declared: BSD-1-Clause
