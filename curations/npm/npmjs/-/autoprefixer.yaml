@@ -1,0 +1,9 @@
+coordinates:
+  name: autoprefixer
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  8.0.0:
+    licensed:
+      declared: AAL
