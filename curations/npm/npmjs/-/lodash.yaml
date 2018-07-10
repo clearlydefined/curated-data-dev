@@ -1,0 +1,39 @@
+coordinates:
+  name: lodash
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  4.17.4:
+    described:
+      facets:
+        doc:
+          - foo
+        tests:
+          - foo
+          - bar
+      issueTracker: www.issueTracker.org
+      projectWebsite: www.foo.bar.com
+      releaseDate: '2018-01-18'
+      sourceLocation:
+        provider: github
+        revision: ba6ed320e350f8b2eae4eb9683302ddac0ddf66f
+        type: git
+        url: 'https://github.com/caolan/async'
+    files:
+      - attributions:
+          - attribution1
+          - attribution2
+        license: MIT
+        path: /foo
+      - attributions:
+          - attribution3
+          - attribution4
+        license: GPL
+        path: /bar
+      - attributions:
+          - attribution3
+        license: Apache-2.0
+        path: /foo/bar
+    licensed:
+      declared: MIT
