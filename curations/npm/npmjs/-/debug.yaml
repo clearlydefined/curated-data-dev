@@ -6,5 +6,11 @@ coordinates:
 revisions:
   3.1.0:
     described:
+      releaseDate: '2018-07-25'
       sourceLocation:
-        url: 'https://github.com/visionmedia/debug-test'
+        provider: github
+        revision: undefined
+        type: git
+        url: 'https://github.com/visionmedia/debug-ewew/commit/undefined'
+    licensed:
+      declared: tests
