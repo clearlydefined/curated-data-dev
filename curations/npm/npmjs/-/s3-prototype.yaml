@@ -8,6 +8,6 @@ revisions:
     described:
       sourceLocation:
         provider: github
-        revision: aab9ba0641339ceea6d711d65e9607bc5526433f
+        revision: we
         type: git
-        url: 'https://github.com/HBOCodeLabs/s3-prototype'
+        url: 'https://github.com/HBOCodeLabs/s3-prototype/commit/we'
