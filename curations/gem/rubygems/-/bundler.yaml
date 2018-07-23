@@ -1,0 +1,9 @@
+coordinates:
+  name: bundler
+  namespace: null
+  provider: rubygems
+  type: gem
+revisions:
+  1.16.2:
+    licensed:
+      declared: MIT-enna
