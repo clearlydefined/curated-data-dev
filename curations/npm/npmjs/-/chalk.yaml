@@ -6,5 +6,6 @@ coordinates:
 revisions:
   2.3.1:
     described:
+      releaseDate: '2018-07-05'
       sourceLocation:
         url: 'https://github.com/chalk/chalk-test'
