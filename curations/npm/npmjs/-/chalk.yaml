@@ -7,4 +7,7 @@ revisions:
   2.3.1:
     described:
       sourceLocation:
+        provider: github
+        revision: joijho8hno9hin
+        type: git
         url: 'https://github.com/chalk/chalk-test'
