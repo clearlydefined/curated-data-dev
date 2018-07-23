@@ -8,6 +8,6 @@ revisions:
     described:
       sourceLocation:
         provider: github
-        revision: 080ecd89f90f1ed01a7c135526f9371eb4e21e00
+        revision: '1232'
         type: git
-        url: 'https://github.com/tj/mocha-cloud'
+        url: 'https://github.com/tj/mocha-cloud/commit/1232'
