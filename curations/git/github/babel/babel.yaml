@@ -1,0 +1,9 @@
+coordinates:
+  name: babel
+  namespace: babel
+  provider: github
+  type: git
+revisions:
+  cee4cde53e4f452d89229986b9368ecdb41e00da:
+    licensed:
+      declared: 0BSD
