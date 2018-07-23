@@ -1,0 +1,24 @@
+coordinates:
+  name: async
+  namespace: null
+  provider: npmjs
+  type: npm
+revisions:
+  2.6.0:
+    described:
+      releaseDate: '2017-07-04'
+      sourceLocation:
+        provider: github
+        revision: '1234'
+        type: git
+        url: 'https://github.com/caolan/async'
+  2.6.1:
+    described:
+      releaseDate: '2012-11-20'
+      sourceLocation:
+        provider: github
+        revision: TEST
+        type: git
+        url: 'https://github.com/caolan/async'
+    licensed:
+      declared: CNRI-Python-GPL-Compatible
