@@ -1,0 +1,9 @@
+coordinates:
+  name: broccoli-merge-trees
+  namespace: broccolijs
+  provider: github
+  type: git
+revisions:
+  98187b1570e6e756322ec638ea55dd97287b10f8:
+    licensed:
+      declared: MIT-CMU
