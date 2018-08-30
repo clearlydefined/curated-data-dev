@@ -1,6 +1,5 @@
 coordinates:
   name: async
-  namespace: null
   provider: npmjs
   type: npm
 revisions:
@@ -8,4 +7,4 @@ revisions:
     described:
       releaseDate: '2017-11-16'
     licensed:
-      declared: GPL-1.0-only
+      declared: MIT
