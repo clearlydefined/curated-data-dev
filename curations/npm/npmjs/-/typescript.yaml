@@ -1,0 +1,12 @@
+coordinates:
+  name: typescript
+  provider: npmjs
+  type: npm
+revisions:
+  2.7.2:
+    files:
+      - attributions:
+          - Copyright (c) Microsoft Corporation.
+          - ddd
+        license: Apache-2.0
+        path: package/CopyrightNotice.txt
