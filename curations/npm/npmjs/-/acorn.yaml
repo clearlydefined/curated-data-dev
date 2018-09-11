@@ -1,0 +1,12 @@
+coordinates:
+  name: acorn
+  provider: npmjs
+  type: npm
+revisions:
+  5.5.1:
+    files:
+      - attributions:
+          - Copyright (c) 2012-2018 by various contributors
+          - test Copyright change
+        license: MIT
+        path: package/LICENSE
