@@ -5,6 +5,6 @@ coordinates:
 revisions:
   2.6.0:
     described:
-      releaseDate: '2017-11-16'
+      releaseDate: '2018-11-16'
     licensed:
       declared: Apache-2.0
