@@ -1,0 +1,15 @@
+coordinates:
+  name: docker-maven-plugin
+  namespace: com.spotify
+  provider: mavencentral
+  type: maven
+revisions:
+  1.0.0:
+    described:
+      sourceLocation:
+        name: redie
+        namespace: microsoft
+        provider: github
+        revision: '9832498729874249724'
+        type: git
+        url: 'https://github.com/microsoft/redie/commit/9832498729874249724'
