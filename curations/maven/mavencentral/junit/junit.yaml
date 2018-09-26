@@ -1,0 +1,17 @@
+coordinates:
+  name: junit
+  namespace: junit
+  provider: mavencentral
+  type: maven
+revisions:
+  '4.12':
+    described:
+      sourceLocation:
+        name: junit4
+        namespace: junit-team
+        provider: github
+        revision: 64155f8a9babcfcf4263cf4d08253a1556e75481
+        type: git
+        url: 'https://github.com/junit-team/junit4/commit/64155f8a9babcfcf4263cf4d08253a1556e75481'
+    licensed:
+      declared: EPL-1.0
