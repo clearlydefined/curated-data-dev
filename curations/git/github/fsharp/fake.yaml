@@ -1,0 +1,9 @@
+coordinates:
+  name: fake
+  namespace: fsharp
+  provider: github
+  type: git
+revisions:
+  2d6f0f997f00bec71cde82843ce78d9e440b4b4d:
+    licensed:
+      declared: MIT and MS-PL
