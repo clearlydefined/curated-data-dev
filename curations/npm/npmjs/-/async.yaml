@@ -6,5 +6,11 @@ revisions:
   2.6.0:
     described:
       releaseDate: '2017-11-16'
+    files:
+      - attributions:
+          - 'Copyright (c) 2011-2012 Benjamin Lupton (http://balupton.com) <b@lupton.cc>'
+          - 'Copyright © 2013+ Bevry Pty Ltd us@bevry.me '
+        license: MIT
+        path: package/LICENSE.md
     licensed:
-      declared: Apache-2.0
+      declared: MIT
