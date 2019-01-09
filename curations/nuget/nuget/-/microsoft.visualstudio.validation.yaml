@@ -1,0 +1,8 @@
+coordinates:
+  name: microsoft.visualstudio.validation
+  provider: nuget
+  type: nuget
+revisions:
+  15.3.58:
+    licensed:
+      declared: MIT-0
