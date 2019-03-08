@@ -13,3 +13,5 @@ revisions:
       facets:
         tests:
           - package/**
+    licensed:
+      declared: MIT-0
