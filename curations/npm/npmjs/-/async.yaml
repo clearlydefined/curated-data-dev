@@ -3,6 +3,9 @@ coordinates:
   provider: npmjs
   type: npm
 revisions:
+  2.5.0:
+    licensed:
+      declared: ADSL
   2.6.0:
     described:
       releaseDate: '2017-11-16'
