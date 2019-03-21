@@ -1,0 +1,9 @@
+coordinates:
+  name: redie
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  113343540172a3af6963d7ff6dbf7debf9a5501e:
+    licensed:
+      declared: MIT-CMU
