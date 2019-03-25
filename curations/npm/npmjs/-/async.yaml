@@ -11,5 +11,9 @@ revisions:
   2.6.1:
     described:
       facets:
+        doc:
+          - '**/docs/*'
         tests:
           - package/**
+    licensed:
+      declared: MIT-0
