@@ -1,0 +1,8 @@
+coordinates:
+  name: array-unique
+  provider: npmjs
+  type: npm
+revisions:
+  0.2.1:
+    licensed:
+      declared: Artistic-1.0
