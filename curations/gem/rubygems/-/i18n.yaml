@@ -1,0 +1,8 @@
+coordinates:
+  name: i18n
+  provider: rubygems
+  type: gem
+revisions:
+  1.0.1:
+    licensed:
+      declared: MIT-advertising
