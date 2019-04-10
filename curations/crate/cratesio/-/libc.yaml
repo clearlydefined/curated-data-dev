@@ -1,0 +1,8 @@
+coordinates:
+  name: libc
+  provider: cratesio
+  type: crate
+revisions:
+  0.2.43:
+    licensed:
+      declared: NONE
