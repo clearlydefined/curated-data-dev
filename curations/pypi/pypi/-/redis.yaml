@@ -1,0 +1,8 @@
+coordinates:
+  name: redis
+  provider: pypi
+  type: pypi
+revisions:
+  3.0.1:
+    licensed:
+      declared: MIT-advertising
