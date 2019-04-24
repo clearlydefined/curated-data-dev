@@ -1,0 +1,9 @@
+coordinates:
+  name: fetch
+  namespace: github
+  provider: github
+  type: git
+revisions:
+  v2.0.3:
+    licensed:
+      declared: MIT-0
