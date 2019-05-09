@@ -1,0 +1,9 @@
+coordinates:
+  name: powerquery-parser
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.1:
+    licensed:
+      declared: MIT-enna
