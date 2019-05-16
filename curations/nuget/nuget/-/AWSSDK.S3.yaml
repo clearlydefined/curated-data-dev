@@ -1,0 +1,8 @@
+coordinates:
+  name: AWSSDK.S3
+  provider: nuget
+  type: nuget
+revisions:
+  3.3.101.12:
+    licensed:
+      declared: OTHER
