@@ -1,0 +1,14 @@
+coordinates:
+  name: Microsoft.Azure.Management.ContainerInstance.Fluent
+  provider: nuget
+  type: nuget
+revisions:
+  1.22.0:
+    described:
+      sourceLocation:
+        name: imgbot
+        namespace: dabutvin
+        provider: github
+        revision: 491e2861196164b44787b9895cf681eacf497026
+        type: git
+        url: 'https://github.com/dabutvin/imgbot/commit/491e2861196164b44787b9895cf681eacf497026'
