@@ -1,0 +1,9 @@
+coordinates:
+  name: razor
+  namespace: aspnet
+  provider: github
+  type: git
+revisions:
+  056940710a07c2e740975ea8291ce2374d19e5c4:
+    licensed:
+      declared: OTHER
