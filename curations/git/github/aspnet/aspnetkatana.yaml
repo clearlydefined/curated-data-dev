@@ -1,0 +1,9 @@
+coordinates:
+  name: aspnetkatana
+  namespace: aspnet
+  provider: github
+  type: git
+revisions:
+  1e6aacff317f93f77dacb89c799e0bf1083fb1e9:
+    licensed:
+      declared: Apache-2.0
