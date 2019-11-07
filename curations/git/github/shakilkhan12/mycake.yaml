@@ -1,0 +1,16 @@
+coordinates:
+  name: mycake
+  namespace: shakilkhan12
+  provider: github
+  type: git
+revisions:
+  4b7f840bac41e56ed8120a376fb4b4371ec09b9e:
+    files:
+      - attributions:
+          - Copyright shakil khan
+        license: MIT
+        path: composer.json
+      - attributions:
+          - Copyright Cláudio Ribeiro
+        license: MIT
+        path: composer.lock
