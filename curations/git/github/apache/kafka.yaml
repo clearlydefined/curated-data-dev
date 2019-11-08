@@ -1,0 +1,12 @@
+coordinates:
+  name: kafka
+  namespace: apache
+  provider: github
+  type: git
+revisions:
+  21234bee31165527859b46ea48c46b76532f7a37:
+    files:
+      - attributions:
+          - Copyright (c) 2004-2006 Intel Corporation
+        license: Apache-2.0 AND 0BSD
+        path: clients/src/main/java/org/apache/kafka/common/utils/PureJavaCrc32C.java
