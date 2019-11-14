@@ -1,0 +1,10 @@
+coordinates:
+  name: antlr
+  namespace: antlr
+  provider: mavencentral
+  type: maven
+revisions:
+  2.7.7:
+    described: {}
+    licensed:
+      declared: BSD-3-Clause
