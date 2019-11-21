@@ -1,0 +1,9 @@
+coordinates:
+  name: whatwg-fetch
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.3:
+    files:
+      - license: OTHER
+        path: package/package.json
