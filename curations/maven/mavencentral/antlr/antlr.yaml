@@ -1,0 +1,15 @@
+coordinates:
+  name: antlr
+  namespace: antlr
+  provider: mavencentral
+  type: maven
+revisions:
+  2.7.7:
+    described:
+      sourceLocation:
+        name: antlr
+        namespace: antlr
+        provider: mavencentral
+        revision: 2.7.7
+        type: sourcearchive
+        url: 'http://www.antlr2.org/download/antlr-2.7.7.tar.gz'
