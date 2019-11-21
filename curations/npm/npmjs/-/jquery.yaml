@@ -1,0 +1,10 @@
+coordinates:
+  name: jquery
+  provider: npmjs
+  type: npm
+revisions:
+  3.4.1:
+    described:
+      facets:
+        examples:
+          - '**/package/external/sizzle/**'
