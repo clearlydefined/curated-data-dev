@@ -1,0 +1,9 @@
+coordinates:
+  name: vscode
+  namespace: microsoft
+  provider: github
+  type: git
+revisions:
+  490ef761b76b3f3b3832eff7a588aac891e5fe80:
+    licensed:
+      declared: AAL
