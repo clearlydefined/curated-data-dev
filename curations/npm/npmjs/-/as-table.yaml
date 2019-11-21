@@ -1,0 +1,8 @@
+coordinates:
+  name: as-table
+  provider: npmjs
+  type: npm
+revisions:
+  1.0.38:
+    licensed:
+      declared: MIT-CMU
