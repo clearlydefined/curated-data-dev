@@ -1,0 +1,12 @@
+coordinates:
+  name: junit
+  namespace: junit
+  provider: mavencentral
+  type: maven
+revisions:
+  '4.4':
+    files:
+      - attributions:
+          - 'Copyright (c) 2000-2006, www.hamcrest.org'
+        license: OTHER
+        path: LICENSE.txt
