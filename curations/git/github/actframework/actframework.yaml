@@ -1,0 +1,38 @@
+coordinates:
+  name: actframework
+  namespace: actframework
+  provider: github
+  type: git
+revisions:
+  e09438ddc29ab34fc95e736f8052e9f9151385cf:
+    files:
+      - attributions:
+          - Copyright (c) 2014 - 2018 ActFramework
+          - Copyright (c) 2007-2010 Julio Vilmar Gesser.
+          - 'Copyright (c) 2011, 2013-2016 The JavaParser Team.'
+        license: LGPL-3.0-or-later OR Apache-2.0
+        path: src/main/java/act/apidoc/javadoc/JavadocBlockTag.java
+      - attributions:
+          - Copyright (c) 2014 - 2018 ActFramework
+          - Copyright (c) 2007-2010 Julio Vilmar Gesser.
+          - 'Copyright (c) 2011, 2013-2016 The JavaParser Team.'
+        license: LGPL-3.0-or-later OR Apache-2.0
+        path: src/main/java/act/apidoc/javadoc/JavadocDescription.java
+      - attributions:
+          - Copyright (c) 2014 - 2018 ActFramework
+          - Copyright (c) 2007-2010 Julio Vilmar Gesser.
+          - 'Copyright (c) 2011, 2013-2016 The JavaParser Team.'
+        license: LGPL-3.0-or-later OR Apache-2.0
+        path: src/main/java/act/apidoc/javadoc/JavadocDescriptionElement.java
+      - attributions:
+          - Copyright (c) 2014 - 2018 ActFramework
+          - Copyright (c) 2007-2010 Julio Vilmar Gesser.
+          - 'Copyright (c) 2011, 2013-2017 The JavaParser Team.'
+        license: LGPL-3.0-or-later OR Apache-2.0
+        path: src/main/java/act/apidoc/javadoc/JavadocInlineTag.java
+      - attributions:
+          - Copyright (c) 2014 - 2018 ActFramework
+          - Copyright (c) 2007-2010 Julio Vilmar Gesser.
+          - 'Copyright (c) 2011, 2013-2016 The JavaParser Team.'
+        license: LGPL-3.0-or-later OR Apache-2.0
+        path: src/main/java/act/apidoc/javadoc/JavadocSnippet.java
