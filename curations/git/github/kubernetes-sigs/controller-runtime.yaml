@@ -1,0 +1,12 @@
+coordinates:
+  name: controller-runtime
+  namespace: kubernetes-sigs
+  provider: github
+  type: git
+revisions:
+  12d98582e72927b6cd0123e2b4e819f9341ce62c:
+    files:
+      - attributions:
+          - 'Copyright (c) 2018, The GoGo Authors.'
+        license: OTHER
+        path: vendor/github.com/gogo/protobuf/proto/custom_gogo.go
