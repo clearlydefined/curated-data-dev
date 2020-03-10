@@ -1,0 +1,9 @@
+coordinates:
+  name: scalactic_2.11
+  namespace: org.scalactic
+  provider: mavencentral
+  type: maven
+revisions:
+  3.0.4:
+    described:
+      releaseDate: '2020-03-06'
