@@ -1,0 +1,11 @@
+coordinates:
+  name: glob-parent
+  namespace: gulpjs
+  provider: github
+  type: git
+revisions:
+  6ce8d11f2f1ed8e80a9526b1dc8cf3aa71f43474:
+    described:
+      facets:
+        tests:
+          - test/
