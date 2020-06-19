@@ -1,0 +1,8 @@
+coordinates:
+  name: samchon
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.30:
+    licensed:
+      declared: MIT
