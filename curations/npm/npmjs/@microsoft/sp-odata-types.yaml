@@ -1,0 +1,9 @@
+coordinates:
+  name: sp-odata-types
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  1.8.1:
+    licensed:
+      declared: Apache-1.1
