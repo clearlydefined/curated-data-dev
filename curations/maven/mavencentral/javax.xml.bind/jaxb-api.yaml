@@ -1,0 +1,9 @@
+coordinates:
+  name: jaxb-api
+  namespace: javax.xml.bind
+  provider: mavencentral
+  type: maven
+revisions:
+  2.2.2:
+    licensed:
+      declared: GPL-3.0
