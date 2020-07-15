@@ -1,0 +1,8 @@
+coordinates:
+  name: MSTest.TestFramework
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.1:
+    licensed:
+      declared: Artistic-2.0
