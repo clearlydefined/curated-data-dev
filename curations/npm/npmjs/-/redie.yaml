@@ -6,3 +6,7 @@ revisions:
   0.2.0:
     licensed:
       declared: MIT-feh
+  0.3.0:
+    files:
+      - license: OTHER
+        path: package/README.md
