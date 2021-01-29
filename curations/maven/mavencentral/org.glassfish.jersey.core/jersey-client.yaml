@@ -6,5 +6,5 @@ coordinates:
 revisions:
   2.25.1:
     files:
-      - license: MIT
+      - license: OTHER
         path: META-INF/MANIFEST.MF
