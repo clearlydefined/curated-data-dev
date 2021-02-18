@@ -1,0 +1,9 @@
+coordinates:
+  name: spring-aop
+  namespace: org.springframework
+  provider: mavencentral
+  type: maven
+revisions:
+  5.1.6.RELEASE:
+    licensed:
+      declared: NONE
