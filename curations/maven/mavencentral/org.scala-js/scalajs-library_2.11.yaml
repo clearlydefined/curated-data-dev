@@ -1,0 +1,10 @@
+coordinates:
+  name: scalajs-library_2.11
+  namespace: org.scala-js
+  provider: mavencentral
+  type: maven
+revisions:
+  0.6.13:
+    files:
+      - license: OTHER
+        path: JS_DEPENDENCIES
