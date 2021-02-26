@@ -1,0 +1,8 @@
+coordinates:
+  name: revision
+  provider: npmjs
+  type: npm
+revisions:
+  7.3.0:
+    licensed:
+      declared: Test_License
