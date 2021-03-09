@@ -1,0 +1,9 @@
+coordinates:
+  name: score-worker-execution-api
+  namespace: io.cloudslang
+  provider: mavencentral
+  type: maven
+revisions:
+  0.1.271:
+    licensed:
+      declared: MIT
