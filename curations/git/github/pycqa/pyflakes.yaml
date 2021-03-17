@@ -1,0 +1,18 @@
+coordinates:
+  name: pyflakes
+  namespace: pycqa
+  provider: github
+  type: git
+revisions:
+  40e6dc23a8fc48f814e0c81fdcd936321ab9c023:
+    licensed:
+      declared: MIT
+  6501af45203dfa3e2d422cfb3ebbecff853db47f:
+    licensed:
+      declared: MIT
+  c72d6cf1a9a119c1dd7a7674f36da21aea32d828:
+    licensed:
+      declared: MIT
+  d2af071c84344de2aa633c1f314ef6cfe6c9515f:
+    licensed:
+      declared: MIT
