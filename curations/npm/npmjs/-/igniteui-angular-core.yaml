@@ -1,0 +1,11 @@
+coordinates:
+  name: igniteui-angular-core
+  provider: npmjs
+  type: npm
+revisions:
+  11.1.0:
+    licensed:
+      declared: MIT
+  11.1.1:
+    licensed:
+      declared: MIT
