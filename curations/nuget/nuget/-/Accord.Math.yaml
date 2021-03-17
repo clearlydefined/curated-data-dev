@@ -1,0 +1,17 @@
+coordinates:
+  name: Accord.Math
+  provider: nuget
+  type: nuget
+revisions:
+  2.14.0:
+    licensed:
+      declared: GPL-2.0-only
+  3.4.0:
+    licensed:
+      declared: GPL-2.0-only
+  3.7.0:
+    licensed:
+      declared: GPL-2.0-only
+  3.8.0:
+    licensed:
+      declared: GPL-2.0-only
