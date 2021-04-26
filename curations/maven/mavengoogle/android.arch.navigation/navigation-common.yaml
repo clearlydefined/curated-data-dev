@@ -1,0 +1,12 @@
+coordinates:
+  name: navigation-common
+  namespace: android.arch.navigation
+  provider: mavengoogle
+  type: maven
+revisions:
+  1.0.0:
+    files:
+      - attributions:
+          - Copyright (c) 2017 The Android Open Source Project
+        license: MIT
+        path: AndroidManifest.xml
