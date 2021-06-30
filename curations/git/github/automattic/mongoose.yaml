@@ -9,4 +9,5 @@ revisions:
       facets:
         data:
           - '**/docs/**'
-        dev: []
+        dev:
+          - '**/dev/**'
