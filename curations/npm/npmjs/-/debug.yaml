@@ -1,9 +1,11 @@
 coordinates:
   name: debug
-  namespace: null
   provider: npmjs
   type: npm
 revisions:
+  0.8.1:
+    licensed:
+      declared: EPL-2.0
   3.1.0:
     described:
       sourceLocation:
