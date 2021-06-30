@@ -1,0 +1,12 @@
+coordinates:
+  name: mongoose
+  namespace: automattic
+  provider: github
+  type: git
+revisions:
+  1ead0e616ab028a994ab47a23643749659243e07:
+    described:
+      facets:
+        data:
+          - '**/docs/**'
+        dev: []
