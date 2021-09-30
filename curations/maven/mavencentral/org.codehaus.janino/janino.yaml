@@ -7,3 +7,6 @@ revisions:
   3.0.10:
     licensed:
       declared: GPL-3.0
+  3.0.9:
+    licensed:
+      declared: GPL-3.0
