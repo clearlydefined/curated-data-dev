@@ -1,0 +1,8 @@
+coordinates:
+  name: Protobuf
+  provider: cocoapods
+  type: pod
+revisions:
+  3.19.1:
+    described:
+      releaseDate: '2021-10-29'
