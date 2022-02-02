@@ -1,0 +1,9 @@
+coordinates:
+  name: typescript-eslint
+  namespace: typescript-eslint
+  provider: github
+  type: git
+revisions:
+  88941065097ce71a0e385cb2e00c1b263dbc69ab:
+    licensed:
+      declared: Apache-2.0
