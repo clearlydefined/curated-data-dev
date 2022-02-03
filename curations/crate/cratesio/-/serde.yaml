@@ -1,0 +1,8 @@
+coordinates:
+  name: serde
+  provider: cratesio
+  type: crate
+revisions:
+  1.0.136:
+    licensed:
+      declared: MIT
