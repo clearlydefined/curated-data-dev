@@ -7,3 +7,5 @@ revisions:
   6.2.3:
     licensed:
       declared: Apache-1.0
+    described:
+      releaseDate: '2019-01-01'
