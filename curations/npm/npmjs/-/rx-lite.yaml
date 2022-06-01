@@ -1,0 +1,10 @@
+coordinates:
+  name: rx-lite
+  provider: npmjs
+  type: npm
+revisions:
+  4.0.8:
+    described:
+      facets:
+        tests:
+          - test/
