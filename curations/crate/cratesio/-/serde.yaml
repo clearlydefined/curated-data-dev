@@ -3,6 +3,9 @@ coordinates:
   provider: cratesio
   type: crate
 revisions:
+  1.0.131:
+    licensed:
+      declared: MIT
   1.0.136:
     licensed:
       declared: MIT
