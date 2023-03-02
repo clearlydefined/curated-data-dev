@@ -1,0 +1,8 @@
+coordinates:
+  name: chance
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.10:
+    licensed:
+      declared: MIT
