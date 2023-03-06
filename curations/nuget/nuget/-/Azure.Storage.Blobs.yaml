@@ -1,0 +1,8 @@
+coordinates:
+  name: Azure.Storage.Blobs
+  provider: nuget
+  type: nuget
+revisions:
+  12.7.0:
+    licensed:
+      declared: OTHER
