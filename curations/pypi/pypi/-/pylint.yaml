@@ -1,0 +1,8 @@
+coordinates:
+  name: pylint
+  provider: pypi
+  type: pypi
+revisions:
+  2.14.5:
+    licensed:
+      declared: GPL-2.0-only
