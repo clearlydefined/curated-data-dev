@@ -8,3 +8,7 @@ revisions:
     files:
       - license: OTHER
         path: META-INF/MANIFEST.MF
+  2.26.1:
+    files:
+      - license: OTHER
+        path: META-INF/MANIFEST.MF
