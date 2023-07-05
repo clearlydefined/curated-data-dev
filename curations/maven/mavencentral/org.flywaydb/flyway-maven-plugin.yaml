@@ -1,0 +1,9 @@
+coordinates:
+  name: flyway-maven-plugin
+  namespace: org.flywaydb
+  provider: mavencentral
+  type: maven
+revisions:
+  5.0.7:
+    licensed:
+      declared: MIT
