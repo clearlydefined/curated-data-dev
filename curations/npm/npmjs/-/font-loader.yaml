@@ -1,0 +1,14 @@
+coordinates:
+  name: font-loader
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.2:
+    described:
+      sourceLocation:
+        name: font-loader
+        namespace: izaakschroeder
+        provider: github
+        revision: b490917d938e9fbfb2b8c4e14d31b1fa779c4cc4
+        type: git
+        url: 'https://github.com/izaakschroeder/font-loader/commit/b490917d938e9fbfb2b8c4e14d31b1fa779c4cc4'
