@@ -1,0 +1,14 @@
+coordinates:
+  name: font-loader
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.2:
+    described:
+      sourceLocation:
+        name: example
+        namespace: pantieienkoooo
+        provider: gitlab
+        revision: 77a0d0a54d9cf2408e1408be829432ef22f9edb6
+        type: git
+        url: 'https://gitlab.com/pantieienkoooo/example/-/commit/77a0d0a54d9cf2408e1408be829432ef22f9edb6'
