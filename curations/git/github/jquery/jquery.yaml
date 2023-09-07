@@ -4,6 +4,13 @@ coordinates:
   provider: github
   type: git
 revisions:
+  07458abcaf02b5e991223953081bb0dd5240e2c1:
+    files:
+      - attributions:
+          - copyrighted by the Free Software Foundation
+          - 'Copyright (c) 1989, 1991 Free Software Foundation, Inc.'
+        license: GPL-2.0 OR GPL-1.0
+        path: GPL-LICENSE.txt
   32b00373b3f42e5cdcb709df53f3b08b7184a944:
     licensed:
       declared: MIT-0
