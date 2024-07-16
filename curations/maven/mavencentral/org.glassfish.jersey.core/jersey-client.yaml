@@ -8,3 +8,5 @@ revisions:
     files:
       - license: OTHER
         path: META-INF/MANIFEST.MF
+    licensed:
+      declared: Apache-1.0
