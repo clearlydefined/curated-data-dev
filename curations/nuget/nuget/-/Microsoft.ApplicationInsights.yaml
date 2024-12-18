@@ -3,6 +3,13 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.12.0:
+    described:
+      facets:
+        data:
+          - test
+    licensed:
+      declared: MIT-0
   2.13.1:
     described:
       facets:
