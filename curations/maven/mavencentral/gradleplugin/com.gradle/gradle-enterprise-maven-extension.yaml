@@ -1,0 +1,9 @@
+coordinates:
+    name: gradle-enterprise-maven-extension
+    namespace: com.gradle
+    provider: gradleplugin
+    type: maven
+revisions:
+    1.0:
+        licensed:
+            declared: OTHER
