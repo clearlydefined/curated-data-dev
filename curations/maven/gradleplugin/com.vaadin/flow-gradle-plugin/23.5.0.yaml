@@ -1,0 +1,9 @@
+coordinates:
+  name: flow-gradle-plugin
+  namespace: com.vaadin
+  provider: gradleplugin
+  type: maven
+revisions:
+  23.5.0:
+    licensed:
+      declared: MIT
