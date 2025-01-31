@@ -1,0 +1,9 @@
+coordinates:
+  name: javassist
+  namespace: org.javassist
+  provider: mavencentral
+  type: maven
+revisions:
+  3.26.0-GA:
+    licensed:
+      declared: LGPL-2.1
