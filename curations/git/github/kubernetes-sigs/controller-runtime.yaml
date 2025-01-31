@@ -7,9 +7,9 @@ revisions:
   12d98582e72927b6cd0123e2b4e819f9341ce62c:
     files:
       - attributions:
-          - Copyright 2017 The Kubernetes Authors.
-        license: OTHER
-        path: vendor/k8s.io/apiextensions-apiserver/pkg/apis/apiextensions/v1beta1/conversion.go
+          - Copyright 2018 The Kubernetes Authors.
+        license: MIT
+        path: Gopkg.toml
       - attributions:
           - Copyright 2017 The Kubernetes Authors.
         license: OTHER
