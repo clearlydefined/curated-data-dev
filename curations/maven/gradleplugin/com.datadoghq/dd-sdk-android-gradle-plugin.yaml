@@ -1,0 +1,9 @@
+coordinates:
+    name: dd-sdk-android-gradle-plugin
+    namespace: com.datadoghq
+    provider: gradleplugin
+    type: maven
+revisions:
+    1.15.0:
+        licensed:
+            declared: Apache-2.0
