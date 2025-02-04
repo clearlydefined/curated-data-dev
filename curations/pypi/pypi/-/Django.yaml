@@ -1,0 +1,8 @@
+coordinates:
+  name: Django
+  provider: pypi
+  type: pypi
+revisions:
+  3.2.1:
+    licensed:
+      declared: PSF-2.0 AND NOASSERTION
