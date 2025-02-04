@@ -7,9 +7,9 @@ revisions:
   12d98582e72927b6cd0123e2b4e819f9341ce62c:
     files:
       - attributions:
-          - Copyright 2017 The Kubernetes Authors.
+          - 'Copyright (c) 2018, The GoGo Authors.'
         license: OTHER
-        path: vendor/k8s.io/apiextensions-apiserver/pkg/apis/apiextensions/v1beta1/conversion.go
+        path: vendor/github.com/gogo/protobuf/proto/custom_gogo.go
       - attributions:
           - Copyright 2017 The Kubernetes Authors.
         license: OTHER
