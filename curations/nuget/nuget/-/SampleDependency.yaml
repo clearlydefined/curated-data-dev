@@ -1,0 +1,15 @@
+coordinates:
+  name: SampleDependency
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    described:
+      facets:
+        doc:
+          - /docs/*
+        tests:
+          - /tests/*
+      releaseDate: '2014-10-27'
+    licensed:
+      declared: OTHER
