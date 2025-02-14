@@ -1,0 +1,11 @@
+coordinates:
+  name: node-releases
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.69:
+    files:
+      - attributions:
+          - 'Copyright (c) 2017 Sergey Rubanov (https://github.com/chicoxyzzy)'
+        license: Apache-2.0
+        path: package/LICENSE
