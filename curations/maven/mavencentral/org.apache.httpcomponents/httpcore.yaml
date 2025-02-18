@@ -1,9 +1,0 @@
-coordinates:
-  name: httpcore
-  namespace: org.apache.httpcomponents
-  provider: mavencentral
-  type: maven
-revisions:
-  4.4.16:
-    described:
-      releaseDate: '2025-01-20'
