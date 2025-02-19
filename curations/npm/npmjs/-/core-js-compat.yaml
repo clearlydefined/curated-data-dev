@@ -1,0 +1,8 @@
+coordinates:
+  name: core-js-compat
+  provider: npmjs
+  type: npm
+revisions:
+  3.20.0:
+    licensed:
+      declared: MIT-feh
