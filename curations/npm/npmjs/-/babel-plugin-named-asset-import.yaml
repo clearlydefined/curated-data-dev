@@ -1,0 +1,8 @@
+coordinates:
+  name: babel-plugin-named-asset-import
+  provider: npmjs
+  type: npm
+revisions:
+  0.3.2:
+    licensed:
+      declared: MIT-0
