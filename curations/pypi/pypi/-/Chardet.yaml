@@ -1,0 +1,8 @@
+coordinates:
+  name: Chardet
+  provider: pypi
+  type: pypi
+revisions:
+  3.0.4:
+    licensed:
+      declared: OTHER AND LGPL-2.1-only
