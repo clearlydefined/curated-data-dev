@@ -1,0 +1,14 @@
+coordinates:
+  name: ag-grid-enterprise
+  provider: npmjs
+  type: npm
+revisions:
+  18.1.0:
+    described:
+      sourceLocation:
+        name: ag-grid
+        namespace: ag-grid
+        provider: github
+        revision: e3b31980af839f1b7c3380f02dfbe0e8e990fac9
+        type: git
+        url: 'https://github.com/ag-grid/ag-grid/commit/e3b31980af839f1b7c3380f02dfbe0e8e990fac9'
