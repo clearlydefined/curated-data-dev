@@ -1,0 +1,15 @@
+coordinates:
+  name: eslint
+  namespace: '@types'
+  provider: npmjs
+  type: npm
+revisions:
+  8.21.3:
+    described:
+      sourceLocation:
+        name: definitelytyped
+        namespace: definitelytyped
+        provider: github
+        revision: 8.21.3
+        type: git
+        url: 'https://github.com/definitelytyped/definitelytyped/commit/8.21.3'
