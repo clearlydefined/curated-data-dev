@@ -1,0 +1,8 @@
+coordinates:
+  name: Aliencube.AzureFunctions.Extensions.OpenApi
+  provider: nuget
+  type: nuget
+revisions:
+  2.1.0:
+    licensed:
+      declared: Apache-1.1
