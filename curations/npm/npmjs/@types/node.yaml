@@ -1,0 +1,12 @@
+coordinates:
+  name: node
+  namespace: '@types'
+  provider: npmjs
+  type: npm
+revisions:
+  10.14.10:
+    files:
+      - attributions:
+          - Test Copyright
+        license: ''
+        path: node v10/README.md
