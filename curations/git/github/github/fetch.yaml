@@ -1,0 +1,10 @@
+coordinates:
+  name: fetch
+  namespace: github
+  provider: github
+  type: git
+revisions:
+  d4ed806fdcbdeaef707d27f6c88943f0336a647d:
+    files:
+      - license: MIT
+        path: bower.json
