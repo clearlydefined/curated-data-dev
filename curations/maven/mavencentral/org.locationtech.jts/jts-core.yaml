@@ -1,0 +1,9 @@
+coordinates:
+  name: jts-core
+  namespace: org.locationtech.jts
+  provider: mavencentral
+  type: maven
+revisions:
+  1.16.0:
+    licensed:
+      declared: Apache-2.0
