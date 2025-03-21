@@ -1,0 +1,9 @@
+coordinates:
+  name: electron
+  namespace: electron
+  provider: github
+  type: git
+revisions:
+  8655d5e9ae2db9987f44b3651e5ba7dfd1e45af5:
+    licensed:
+      declared: AGPL-1.0-only
