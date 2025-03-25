@@ -1,0 +1,9 @@
+coordinates:
+  name: applicationinsights-dependencies-js
+  namespace: '@microsoft'
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.0-rc6:
+    licensed:
+      declared: MIT-feh
