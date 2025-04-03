@@ -1,0 +1,8 @@
+coordinates:
+  name: Metro4
+  provider: nuget
+  type: nuget
+revisions:
+  4.3.8:
+    licensed:
+      declared: Apache-1.1
