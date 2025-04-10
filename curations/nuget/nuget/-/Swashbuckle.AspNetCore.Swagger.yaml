@@ -1,0 +1,8 @@
+coordinates:
+  name: Swashbuckle.AspNetCore.Swagger
+  provider: nuget
+  type: nuget
+revisions:
+  5.6.3:
+    licensed:
+      declared: RANDOM-License
