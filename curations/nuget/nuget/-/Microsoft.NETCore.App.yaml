@@ -1,0 +1,14 @@
+coordinates:
+  name: Microsoft.NETCore.App
+  provider: nuget
+  type: nuget
+revisions:
+  3.0.0-preview7-27912-14:
+    described:
+      sourceLocation:
+        name: core-setup
+        namespace: dotnet
+        provider: github
+        revision: 4da6ee6450e4dd43ef8c05925fec22d9ac3892f3
+        type: git
+        url: 'https://github.com/dotnet/core-setup/commit/4da6ee6450e4dd43ef8c05925fec22d9ac3892f3'
