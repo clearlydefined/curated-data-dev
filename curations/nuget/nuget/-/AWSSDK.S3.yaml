@@ -3,6 +3,9 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  3.0.0-preview:
+    licensed:
+      declared: OTHER
   3.3.101.12:
     licensed:
       declared: OTHER
