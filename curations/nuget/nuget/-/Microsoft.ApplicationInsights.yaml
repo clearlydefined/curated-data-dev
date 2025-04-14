@@ -10,3 +10,10 @@ revisions:
           - test
     licensed:
       declared: MIT-0
+  2.21.0:
+    described:
+      facets:
+        data:
+          - test
+    licensed:
+      declared: MIT-0
