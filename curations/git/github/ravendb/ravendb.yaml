@@ -1,0 +1,9 @@
+coordinates:
+  name: ravendb
+  namespace: ravendb
+  provider: github
+  type: git
+revisions:
+  4f43df6bfe8107bfddd72afd5448db850b6bc333:
+    licensed:
+      declared: GPL-2.0-only
