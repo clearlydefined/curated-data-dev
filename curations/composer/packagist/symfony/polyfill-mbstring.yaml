@@ -1,0 +1,9 @@
+coordinates:
+  name: polyfill-mbstring
+  namespace: symfony
+  provider: packagist
+  type: composer
+revisions:
+  1.11.0:
+    described:
+      releaseDate: '2024-02-26'
