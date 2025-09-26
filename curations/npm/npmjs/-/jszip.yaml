@@ -1,0 +1,25 @@
+coordinates:
+  name: jszip
+  provider: npmjs
+  type: npm
+revisions:
+  3.1.5:
+    described:
+      releaseDate: '2025-11-09'
+      sourceLocation:
+        name: jszip
+        namespace: Stuk
+        provider: github
+        revision: a4138a23cb9b8eb773c19af7d36d5ce2bcf4bfda
+        type: git
+        url: 'https://github.com/Stuk/jszip/commit/a4138a23cb9b8eb773c19af7d36d5ce2bcf4bfda'
+    files:
+      - license: GPL-3.0-only OR MIT
+        path: package/README.markdown
+      - license: GPL-3.0-only OR MIT
+        path: package/package.json
+      - attributions:
+          - 'Copyright (c) 2007 Free Software Foundation, Inc. http://fsf.org/'
+          - 'Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, Antonio Afonso'
+        license: GPL-3.0-only OR MIT
+        path: package/LICENSE.markdown
