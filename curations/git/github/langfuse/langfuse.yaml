@@ -1,0 +1,12 @@
+coordinates:
+  name: langfuse
+  namespace: langfuse
+  provider: github
+  type: git
+revisions:
+  26e3bf9a444e735a211ef6ad89b0473e911825e9:
+    files:
+      - license: MIT WITH 389-exception AND MIT WITH LLVM-exception
+        path: README.kr.md
+    licensed:
+      declared: MIT WITH 389-exception
