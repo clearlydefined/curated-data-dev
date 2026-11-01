@@ -1,0 +1,9 @@
+coordinates:
+  name: async-attributes
+  namespace: async-rs
+  provider: github
+  type: git
+revisions:
+  014a453de8f22957e989d5f39d39b8fb2b6cc442:
+    licensed:
+      declared: MIT-0 AND MIT
